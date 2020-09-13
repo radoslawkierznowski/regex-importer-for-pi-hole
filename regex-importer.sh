@@ -2,5 +2,5 @@
 input="regex.txt"
 while IFS= read -r line
 do
-	pihole --regex $line
+	pihole --regex "$line"
 done < "$input"
