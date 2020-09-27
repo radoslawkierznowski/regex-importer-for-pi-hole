@@ -189,3 +189,8 @@
 (^|\.).*internet-lte-5gb\.blogspot\.com$
 (^|\.).*pakiety-lte-5gb\.blogspot\.com$
 (^|\.).*pakiety-pokemon-go\.blogspot\.com$
+
+test1
+#test2
+test 3
+# test 4
